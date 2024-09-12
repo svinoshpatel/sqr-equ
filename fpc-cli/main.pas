@@ -4,7 +4,7 @@ uses SysUtils;
 var a, b, c, x1, x2, x, D, Eps : Real;
 
 BEGIN
-Eps := 0.0001
+Eps := 0.0001;
 
 write('Input a b c =>');
 readln(a, b, c);
